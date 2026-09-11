@@ -1,1 +1,0 @@
-from .Script import get_temp_data
